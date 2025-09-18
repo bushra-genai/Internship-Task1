@@ -21,7 +21,7 @@ Customer-Review-Sentiment-Analyzer/
 
 🛠️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/customer-review-sentiment-analyzer.git
+git clone https://github.com/bushra-genai/Internship-Task1/tree/main
 cd customer-review-sentiment-analyzer
 
 2️⃣ Create Virtual Environment (Recommended)
