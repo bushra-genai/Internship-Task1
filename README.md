@@ -84,28 +84,6 @@ Output:
 
 Sentiment: POSITIVE (Confidence: 99.98%)
 
-🌐 Deployment
-
-You can easily deploy this app to Streamlit Cloud:
-
-Push your code to GitHub.
-
-Go to Streamlit Cloud
-.
-
-Connect your repository.
-
-Deploy the app in one click!
-
-🔮 Future Improvements
-
-Add support for Neutral sentiment classification.
-
-Provide visualizations (e.g., pie charts of sentiment distribution).
-
-Extend to multilingual reviews.
-
-Add option to upload CSV files for bulk analysis.
 
 📜 License
 
